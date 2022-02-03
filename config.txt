@@ -1,0 +1,6 @@
+api=abcd1234
+mail=abc@xyz.com
+password=12345678
+token=xyz123
+client_secret=qwerty
+session_string=asdfghjk546
